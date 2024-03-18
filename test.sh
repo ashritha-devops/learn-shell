@@ -1,3 +1,1 @@
-touch a
-
-cat a
+echo " hello world "
